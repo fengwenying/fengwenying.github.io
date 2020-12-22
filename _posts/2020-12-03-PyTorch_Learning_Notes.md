@@ -1,16 +1,10 @@
 ---
 layout: post
-title: "PyTorch 学习笔记"
-subtitle: ""
+title: PyTorch 学习笔记
 date: 2020-12-22 15:43:00
-author: "Wendy"
-header-img: ""
-tags: 
-    - 学习笔记
-    - PyTorch
+author: Wendy
+tags: [学习笔记, PyTorch]
 ---
-
-
 
 # 一、PyTorch 60min 入门教程
 
