@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Wendy
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Wendy的个人博客
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/42285676?s=400&u=5b9aedf99b297dd2d82d84defb341afc0db9201f&v=4
 
 #
 # Flags below are optional
