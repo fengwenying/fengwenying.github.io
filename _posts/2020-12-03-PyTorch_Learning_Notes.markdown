@@ -2,7 +2,6 @@
 layout: post
 title: PyTorch Learning Notes
 date: 2020-12-03
-tags: framework learning
 ---
 
 # 一、PyTorch 60min 入门教程

@@ -21,7 +21,6 @@
 title: Wendy's Blog
 email: 838021810@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
- Themed by ejjoo
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: fengwenying
@@ -34,8 +33,8 @@ highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
-category_dir: category/
-tag_dir: tag/
+# category_dir: category/
+# tag_dir: tag/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
